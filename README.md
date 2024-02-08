@@ -7,7 +7,7 @@ After forking the code I realized that I'm further from being capable of working
 I'm still getting a hold of Kotlin and Android app dev in general, once I'm confident enough I'll restart my work.
 
 The short-term goals of the project will be:
-- User-defined layouts instead of source code
+- User-defined layouts instead of source code (see [discussion](https://github.com/asdkant/open-thumb/discussions/1) on layout definition format)
 - Gestures in general, "swipe-and-back" being the most urgent one for me.
 
 In the meantime my work related to this will live in https://github.com/asdkant/thumb-key
